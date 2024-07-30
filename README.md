@@ -16,7 +16,7 @@ There would be a blockchain created for every Human Being, which would have the 
 
 Following is a pictorial represenation on how a block is represented, what are its transaction values and how each transaction value is linked to a external record/database (Here database can be of any type RDBMS/NoSQL)
 
-![Blockchain DB](./assets/images/blockchain-db.png)
+![Blockchain DB](./assets/images/blockchain-db.jpg)
 
 In the above diagram we represent on how a value to the record would impact the blockchain.
 
